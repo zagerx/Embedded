@@ -42,3 +42,7 @@ manifest:
       path: modules/lib/ProtocolV4
       submodules: true
       revision: master
+
+    - name: motorlib
+      path: modules/lib/motorlib
+      revision: master
