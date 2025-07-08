@@ -46,3 +46,7 @@ manifest:
     - name: motorlib
       path: modules/lib/motorlib
       revision: master
+
+    - name: CommonLibrary
+      path: modules/lib/CommonLibrary
+      revision: master
