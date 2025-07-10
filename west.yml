@@ -22,7 +22,8 @@ manifest:
           - cmsis
           - cmsis-dsp
           - hal_stm32
-
+          - segger
+  
     - name: syrius-dts
       path: syrius-dts/
       remote: origin  # 改为存在的 remote
